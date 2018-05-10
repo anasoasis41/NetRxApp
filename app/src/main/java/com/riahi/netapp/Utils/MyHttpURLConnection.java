@@ -1,4 +1,4 @@
-package com.openclassrooms.netapp.Utils;
+package com.riahi.netapp.Utils;
 
 import java.io.BufferedReader;
 import java.io.IOException;

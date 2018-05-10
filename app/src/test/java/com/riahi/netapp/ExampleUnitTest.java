@@ -1,4 +1,4 @@
-package com.openclassrooms.netapp;
+package com.riahi.netapp;
 
 import org.junit.Test;
 

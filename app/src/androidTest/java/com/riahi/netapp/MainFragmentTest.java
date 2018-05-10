@@ -1,10 +1,10 @@
-package com.openclassrooms.netapp;
+package com.riahi.netapp;
 
 import android.support.test.runner.AndroidJUnit4;
 
-import com.openclassrooms.netapp.Utils.GithubStreams;
-import com.openclassrooms.netapp.models.GithubUser;
-import com.openclassrooms.netapp.models.GithubUserInfo;
+import com.riahi.netapp.Utils.GithubStreams;
+import com.riahi.netapp.models.GithubUser;
+import com.riahi.netapp.models.GithubUserInfo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

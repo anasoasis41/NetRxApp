@@ -1,4 +1,4 @@
-package com.openclassrooms.netapp.views;
+package com.riahi.netapp.views;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -7,8 +7,8 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.bumptech.glide.RequestManager;
-import com.openclassrooms.netapp.R;
-import com.openclassrooms.netapp.models.GithubUser;
+import com.riahi.netapp.R;
+import com.riahi.netapp.models.GithubUser;
 
 import java.util.List;
 

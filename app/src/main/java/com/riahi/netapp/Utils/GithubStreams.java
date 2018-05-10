@@ -1,7 +1,7 @@
-package com.openclassrooms.netapp.Utils;
+package com.riahi.netapp.Utils;
 
-import com.openclassrooms.netapp.models.GithubUser;
-import com.openclassrooms.netapp.models.GithubUserInfo;
+import com.riahi.netapp.models.GithubUser;
+import com.riahi.netapp.models.GithubUserInfo;
 
 import java.util.List;
 import java.util.concurrent.TimeUnit;

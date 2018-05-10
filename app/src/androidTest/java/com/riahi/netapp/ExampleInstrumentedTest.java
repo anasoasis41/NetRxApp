@@ -1,4 +1,4 @@
-package com.openclassrooms.netapp;
+package com.riahi.netapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

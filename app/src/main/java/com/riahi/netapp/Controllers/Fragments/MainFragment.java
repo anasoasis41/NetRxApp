@@ -1,4 +1,4 @@
-package com.openclassrooms.netapp.Controllers.Fragments;
+package com.riahi.netapp.Controllers.Fragments;
 
 
 import android.os.Bundle;
@@ -13,11 +13,11 @@ import android.view.ViewGroup;
 import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
-import com.openclassrooms.netapp.R;
-import com.openclassrooms.netapp.Utils.GithubStreams;
-import com.openclassrooms.netapp.Utils.ItemClickSupport;
-import com.openclassrooms.netapp.models.GithubUser;
-import com.openclassrooms.netapp.views.GithubUserAdapter;
+import com.riahi.netapp.R;
+import com.riahi.netapp.Utils.GithubStreams;
+import com.riahi.netapp.Utils.ItemClickSupport;
+import com.riahi.netapp.models.GithubUser;
+import com.riahi.netapp.views.GithubUserAdapter;
 
 import java.util.ArrayList;
 import java.util.List;

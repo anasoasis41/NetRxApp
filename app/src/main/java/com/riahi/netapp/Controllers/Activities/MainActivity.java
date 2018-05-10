@@ -1,10 +1,10 @@
-package com.openclassrooms.netapp.Controllers.Activities;
+package com.riahi.netapp.Controllers.Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.openclassrooms.netapp.Controllers.Fragments.MainFragment;
-import com.openclassrooms.netapp.R;
+import com.riahi.netapp.Controllers.Fragments.MainFragment;
+import com.riahi.netapp.R;
 
 public class MainActivity extends AppCompatActivity {
 
